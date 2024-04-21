@@ -10,6 +10,44 @@ nav ul li {
     margin-right: 20px; 
 }
 
+flag
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: large;
+}
+
+.red
+{
+    background-color: red;
+}
+
+.blue
+{
+    background-color: blue;
+}
+
+.white
+{
+    background-color: white;
+}
+
+.navdiv
+{
+    background-color: #707070;
+    padding: 20px;
+    margin: 30px;
+}
+
+.nav
+{
+    background-color: #1e4670;  
+    color: white;
+    padding: 5px;
+}
+
 /* Global Styles */
 body {
     font-family: Arial, sans-serif;
